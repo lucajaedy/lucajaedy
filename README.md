@@ -36,9 +36,9 @@ unindo a visão de negócios com a resolução de problemas através do código.
 
 <h3>📊 Estatísticas</h3>
 
-<a href="https://github.com/lucajaedy"><img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucajaedy&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/lucajaedy?tab=repositories"><img height="165" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucajaedy&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/lucajaedy"><img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucajaedy&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&border_radius=12&v=20261124" /></a>
+<a href="https://github.com/lucajaedy?tab=repositories"><img height="165" alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucajaedy&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br&hide_border=true&border_radius=12&v=20261124" /></a>
 
-<img height="165" alt="Sequência de commits" src="https://streak-stats.demolab.com?user=lucajaedy&theme=tokyonight&hide_border=true&border_radius=12&locale=pt_BR" />
+<img height="165" alt="Sequência de commits" src="https://streak-stats.demolab.com?user=lucajaedy&theme=tokyonight&hide_border=true&border_radius=12&locale=pt_BR&v=20261124" />
 
 </div>
